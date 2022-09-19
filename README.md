@@ -9,14 +9,14 @@ Este es un proyeto creado con HTML, CSS y Java Script.
 * [Portafolio] (http://www.alejanpublic-dev.com.ar)
 
 ## Ver ejemplo en vivo 🖥️💻🖨️🖱️
--[ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
+- [https://alejanpublic-dev.github.io/TechNews-Proyect/] (https://alejanpublic-dev.github.io/TechNews-Proyect/)
 
 ## Instalación 💾💿📀
 Este proyecto no necesita instalación
 
-##Contratación 📱📲
+## Contratación 📱📲
 SI quieres contactarme puedes enviar un mail a alejanpublic.dev@gmail.com
 
-##licencia 🆓
+## licencia 🆓
 MIT Public License v3.0
 No puede usarse comercialmente 
