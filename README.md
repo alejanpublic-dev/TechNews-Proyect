@@ -9,7 +9,7 @@ Este es un proyeto creado con HTML, CSS y Java Script.
 * [Portafolio] (http://www.alejanpublic-dev.com.ar)
 
 ## Ver ejemplo en vivo 🖥️💻🖨️🖱️
-- [https://alejanpublic-dev.github.io/TechNews-Proyect/] (https://alejanpublic-dev.github.io/TechNews-Proyect/)
+- [link-Proyect] (https://alejanpublic-dev.github.io/TechNews-Proyect/)
 
 ## Instalación 💾💿📀
 Este proyecto no necesita instalación
